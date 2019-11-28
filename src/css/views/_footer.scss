@@ -1,0 +1,8 @@
+footer{
+    h1{
+        @include font(55px, $font-light, $font--color_primary);
+        background: rgb(14, 156, 133);
+        border: 5px solid rgb(143, 9, 177);
+        border-radius: 15px;
+    }
+}

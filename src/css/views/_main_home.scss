@@ -1,0 +1,4 @@
+.title{
+    @include font(18px, $font-light, $font--color_primary);
+    background-color: chocolate;
+}
