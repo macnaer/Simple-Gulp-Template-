@@ -4,9 +4,12 @@
 @import 'settings';
 @import 'fonts';
 
-@import 'buttons';
 @import 'mixins';
+@import 'buttons';
 
+
+
+@import 'views/top-header';
 @import 'views/header';
 @import 'views/footer';
 
